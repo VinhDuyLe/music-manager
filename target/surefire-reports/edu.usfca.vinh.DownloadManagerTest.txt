@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.usfca.vinh.DownloadManagerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.806 s - in edu.usfca.vinh.DownloadManagerTest
